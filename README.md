@@ -1,5 +1,6 @@
 ### Dashboards availables
-- Docker - Datasource zabbix
+- Docker - Datasource zabbix - Zabbix agent v2
+- MySQL - Datasource zabbix - Zabbix agent v2
 ### Support
 - Blog: [sysadm.es](https://sysadm.es)
 - Public Github: [sysadm.es](https://github.com/VGzsysadm?tab=repositories)
