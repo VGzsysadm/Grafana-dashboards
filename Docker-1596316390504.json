@@ -3795,7 +3795,7 @@
         "options": [],
         "query": "$Group.*",
         "refresh": 1,
-        "regex": "sysadm-docker01",
+        "regex": "",
         "skipUrlSync": false,
         "sort": 1,
         "tagValuesQuery": "",
